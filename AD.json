@@ -1,77 +1,96 @@
 {
-  "lives": [
-    {
-      "name": "云星线路",
-      "boot": true,
+ "lives": [
+
+	{
+           "name": "云星线路",
+		   "boot":true,
       "type": 0,
-      "url": "./lib/如意直播.txt",
+      "url": "https://gitee.com/zdhb/tvt/raw/master/zb.txt",
       "playerType": 1,
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "春盈IPV6-IPV4",
-      "boot": true,
-      "type": 0,
-      "url": "./lib/feihu6.txt?ref=master",
-      "epg": "http://epg.tvcms.top/api/diyp/",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+        "name": "春盈IPV6-IPV4",
+		"boot":true,
+        "type": 0,
+        "url": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives/feihu6.txt?ref=master",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    
     {
-      "name": "日后IPV6-IPV4",
-      "boot": true,
-      "type": 0,
-      "url": "http://rihou.cc:555/gggg.nzk",
-      "epg": "http://epg.tvcms.top/api/diyp/",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+        "name": "日后IPV6-IPV4",
+		"boot":true,
+        "type": 0,
+        "url": "http://rihou.cc:555/gggg.nzk",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    
+        
     {
-      "name": "IPV6源",
-      "boot": true,
-      "type": 0,
-      "url": "./lib/ipv6.txt",
-      "epg": "http://epg.tvcms.top/api/diyp/",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+        "name": "IPV6源",
+		"boot":true,
+        "type": 0,
+        "url": "http://ww.zouming.com/ipv6.txt",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },          
+    
+  {
+        "name": "MV专线",
+		"boot":true,
+        "type": 0,
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },       
+    
+    
+      {
+        "name": "虎牙线路",
+		"boot":true,
+        "type": 0,
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },       
+    
+    
+    
+      {
+        "name": "范明电台",
+		"boot":true,
+        "type": 0,
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },       
+    
+    
+    
+      {
+        "name": "范明线路",
+		"boot":true,
+        "type": 0,
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },     
+    
+    
     {
-      "name": "MV专线",
-      "boot": true,
-      "type": 0,
-      "url": "./lib/MTV.txt",
-      "epg": "http://epg.tvcms.top/api/diyp/",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "虎牙线路",
-      "boot": true,
-      "type": 0,
-      "url": "./lib/huyayqk.m3u",
-      "epg": "http://epg.tvcms.top/api/diyp/",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "范明电台",
-      "boot": true,
-      "type": 0,
-      "url": "./lib/index.m3u",
-      "epg": "http://epg.tvcms.top/api/diyp/",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "范明线路",
-      "boot": true,
-      "type": 0,
-      "url": "./lib/ipv6.m3u",
-      "epg": "http://epg.tvcms.top/api/diyp/",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "欧华线路",
-      "boot": true,
-      "type": 0,
-      "url": "https://notabug.org/kan314/dd/raw/main/0426hua159.txt",
-      "epg": "http://epg.tvcms.top/api/diyp/",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ]
+        "name": "欧华线路",
+		"boot":true,
+        "type": 0,
+        "url": "https://notabug.org/kan314/dd/raw/main/0426hua159.txt",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }     
+    
+  
+	
+]
+
 }
