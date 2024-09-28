@@ -1,11 +1,5 @@
-
-
-
-
-
 电影频道,#genre#
 
-影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 CCtv6影院,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 
 1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
@@ -63,7 +57,7 @@ CCtv6影院,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 
 影视频道,http://220.164.192.48:50085/tsfile/live/1001_1.m3u8
 华语影院,http://117.161.12.124/live/program/live/hyyy8m/8000000/mnf.m3u8
-
+影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 明星大片,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 
@@ -798,8 +792,6 @@ CCTV-15音乐,https://epg.pw/stream/f5c27d1a459fea9505fe0eaff71c5f8b814a01876be6
 
 
 
-音乐,#genre#
-500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 
 
 🏆体育频道,#genre#
@@ -810,7 +802,7 @@ CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/
 
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-辽宁体育,http://59.44.102.18:8888/newlive/live/hls/45/live.m3u8
+
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
@@ -820,3 +812,5 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 
+音乐,#genre#
+500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
