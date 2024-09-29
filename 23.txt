@@ -1,4 +1,7 @@
-电影频道,#genre#
+//全部出自网络和大佬资源，如有冒犯请联系删除。所有内容仅供学习使用，请勿用于违法用途。//
+
+
+📽电影频道,#genre#
 
 CCtv6影院,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 
@@ -209,7 +212,7 @@ CCtv6影院,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
 
 
-经典电影,#genre#
+🎬经典电影,#genre#
 97家有喜事,https://vip.ffzy-play6.com/20221129/9285_97e3dfc9/index.m3u8
 A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/index.m3u8
@@ -541,7 +544,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 醉拳3,https://vip.ffzy-play7.com/20221112/3468_38ba3d24/index.m3u8
 
 
-央视,#genre#
+📺央视频道,#genre#
 CCTV-1综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV-1综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -744,7 +747,7 @@ CCTV-15音乐,https://epg.pw/stream/ecd4b5aa3960959c33cfdf65566e3bc1130992aefe72
 CCTV-15音乐,https://epg.pw/stream/f0832cfdd1d45cfe7bb3b215568b69269405307d5a06171ee087ac3c154ba14c.m3u8
 CCTV-15音乐,https://epg.pw/stream/f5c27d1a459fea9505fe0eaff71c5f8b814a01876be632f11f1251180cd55f9b.m3u8
 
-卫视,#genre#
+📡卫视频道,#genre#
 
 河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河北卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
